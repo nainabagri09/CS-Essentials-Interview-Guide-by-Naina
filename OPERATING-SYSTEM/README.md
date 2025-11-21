@@ -204,10 +204,7 @@ Techniques:
 ---
 
 ## 🎥 Recommended YouTube Playlists  
-- **Gate Smashers – OS Playlist**  
-  https://youtube.com/playlist?list=PLn32mJ8RhQWiIgEoD2U3gHoHC3ApDOHas
 
-- **Vivek Gupta – OS Revision**  
-  https://youtu.be/2LOpVPMiGUw
+- [OS Full Revision – by Vivek Gupta](https://www.youtube.com/watch?v=3obEP8eLsCw&t=6787s)  
 
 ---
