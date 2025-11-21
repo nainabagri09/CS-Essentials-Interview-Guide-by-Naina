@@ -191,3 +191,7 @@ FROM employees
 WHERE id IN (
   SELECT employee_id FROM department WHERE name = 'HR'
 );
+
+### 🎥 YT Links  
+- [Vivek Gupta](https://youtu.be/2LOpVPMiGUw?si=6_RlmMUln4L9ghxq)  
+- [Gate Smashers Playlist](https://youtube.com/playlist?list=PLn32mJ8RhQWiIgEoD2U3gHoHC3ApDOHas&si=bfc4luA78RhDiYVl)
